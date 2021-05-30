@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723709331308",
+    "project_id": "storageapp-7dd42",
+    "storage_bucket": "storageapp-7dd42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723709331308:android:d42b890350cb9b101b9549",
+        "android_client_info": {
+          "package_name": "com.example.filestorageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723709331308-e7eu2coj6jprtoli6im3gm3368qoka5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjwu342ItUHjsTGDeqzkq1CEITXLh10RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723709331308-e7eu2coj6jprtoli6im3gm3368qoka5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
